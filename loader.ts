@@ -1,6 +1,6 @@
 import * as path from 'path';
 import * as assert from 'assert';
-import * as uuidV1 from 'uuid/v1';
+import { v1 as uuidV1 } from 'uuid';
 import { Application } from 'egg';
 import is = require('is-type-of');
 import { Container, ContainerInstance } from 'typedi';

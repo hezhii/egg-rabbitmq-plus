@@ -30,7 +30,8 @@
     "is-type-of": "^1.2.1",
     "querystring": "^0.2.0",
     "tslib": "^1.10.0",
-    "typedi": "^0.8.0"
+    "typedi": "^0.8.0",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "typescript": "^3.6.3"
