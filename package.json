@@ -1,6 +1,6 @@
 {
-  "name": "egg-rabbitmq-plus",
-  "version": "1.0.19",
+  "name": "egg-rabbitmq-plugin",
+  "version": "1.0.0",
   "description": "rabbitmq plgin for egg.js",
   "eggPlugin": {
     "name": "rabbitmq"
@@ -39,5 +39,14 @@
   "main": "./dist.js",
   "engines": {
     "node": ">=8.0.0"
+  },
+  "author": {
+    "name": "biu",
+    "email": "hezhou920@gmail.com",
+    "url": "https://www.whezh.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hezhii/egg-rabbitmq-plus.git"
   }
 }
